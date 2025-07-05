@@ -233,8 +233,8 @@
         "column_zPhEQW": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "<strong>⭐⭐⭐⭐⭐</strong>",
+            "text": "<p>After just a week of using Reliva, my back pain started to fade. I fall asleep faster and wake up less stiff. The AI Coach is a surprisingly helpful guide!</p><h3><br/><strong>Sana M.</strong></h3>",
             "link_label": "",
             "link": ""
           }
@@ -242,8 +242,8 @@
         "column_dUEPBU": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>I was skeptical at first, but 20 minutes a day on the mat became my favorite habit. It’s like meditation for my muscles.</p><h3><strong><br/>Michael A.</strong></h3>",
             "link_label": "",
             "link": ""
           }
@@ -251,8 +251,8 @@
         "column_pii433": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>I love how the AI Coach tells me how to use the mat based on what I’m feeling. It's not just a product—it’s a system that works.</p><h3><br/><strong>Fatima R.</strong></h3>",
             "link_label": "",
             "link": ""
           }
@@ -265,18 +265,36 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Multicolumn",
+        "title": "<em>Real Relief. Real Stories.</em>",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_blog_WXdADb": {
+      "type": "featured-blog",
+      "name": "t:sections.featured-blog.presets.name",
+      "settings": {
+        "heading": "Feel Better, Naturally",
+        "heading_size": "h1",
+        "blog": "",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -395,6 +413,7 @@
     "featured_collection",
     "multirow_FFpNRg",
     "multicolumn_C39C4M",
+    "featured_blog_WXdADb",
     "collage",
     "video",
     "multicolumn_GHAh43"
