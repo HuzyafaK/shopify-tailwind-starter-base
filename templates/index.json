@@ -255,7 +255,7 @@
       "type": "featured-blog",
       "name": "t:sections.featured-blog.presets.name",
       "settings": {
-        "heading": "Feel Better, Naturally",
+        "heading": "<em>Feel Better, Naturally</em>",
         "heading_size": "h1",
         "blog": "",
         "post_limit": 3,
