@@ -103,8 +103,9 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/2.png",
+            "title": "<em>Improve Sleep Quality</em>",
+            "text": "<p>Use daily to unwind, calm your nervous system, and fall asleep faster.</p>",
             "link_label": "",
             "link": ""
           }
@@ -112,8 +113,9 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/1.png",
+            "title": "<em>Guided by AI Coach</em>",
+            "text": "<p>Our built-in AI Coach helps you use the mat the right way, every day—tailored to you.</p>",
             "link_label": "",
             "link": ""
           }
